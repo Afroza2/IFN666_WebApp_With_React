@@ -6,7 +6,7 @@ import Home from "./pages/Home";
 import Stocks from "./pages/Stocks";
 import Quotes from "./pages/Quotes";
 import History from "./pages/History";
-import NavBar from "./components/Navbar";
+import NavBar from "./components/NavBar";
 
 function App() {
   return (
